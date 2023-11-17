@@ -20,7 +20,7 @@
 
 Назначьте ВМ созданную в первом задании группу безопасности.(как это сделать узнайте в документации провайдера yandex/compute_instance )
 
-![Задание2](https://github.com/SSitkarev/terraform-03/blob/main/img/2.jpg)
+![Задание2](https://github.com/SSitkarev/terraform-03/blob/main/img/2-1.jpg)
 
 ![Задание2](https://github.com/SSitkarev/terraform-03/blob/main/img/3.jpg)
 
