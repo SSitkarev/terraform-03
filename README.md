@@ -65,3 +65,17 @@
 ![Задание4](https://github.com/SSitkarev/terraform-03/blob/main/img/11.jpg)
 
 ![Задание4](https://github.com/SSitkarev/terraform-03/blob/main/img/12.jpg)
+
+## Доработка
+
+Действительно, после удаления count при создании виртуалки storage потребовалось переписать ansible template.
+
+![Задание4](https://github.com/SSitkarev/terraform-03/blob/main/img/14.jpg)
+
+Инфраструктура запустилась 
+
+![Задание4](https://github.com/SSitkarev/terraform-03/blob/main/img/13.jpg)
+
+Сгенерированный inventory-файл
+
+![Задание4](https://github.com/SSitkarev/terraform-03/blob/main/img/15.jpg)
